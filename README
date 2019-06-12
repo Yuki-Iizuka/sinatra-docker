@@ -1,0 +1,16 @@
+## HOWTO
+### Build Image
+
+```
+$ docker-compose build
+```
+
+### Start Containers
+
+```
+$ docker-compose up
+```
+
+### Access via browser
+
+* http://localhost
